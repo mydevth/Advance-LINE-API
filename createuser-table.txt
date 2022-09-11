@@ -1,0 +1,11 @@
+CREATE TABLE `users` (
+  `id` bigint(20) NOT NULL,
+  `user_id` varchar(250) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `display_name` varchar(250) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `picture_url` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `is_active` int(11) NOT NULL DEFAULT 1,
+  `user_phone` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `user_role` enum('user','repairman','admin') COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'user',
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
