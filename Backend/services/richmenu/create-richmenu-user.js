@@ -100,5 +100,5 @@ exports.createRichMenuUser = async () => {
   await client.setDefaultRichMenu(richMenuUserId);
 
   // 4. create alias to richmenu
-  await client.createRichMenuAlias(richMenuUserId, "richmenu-alias-user");
+  await client.createRichMenuAlias(richMenuUserId, "richmenu-alias-user-2");
 };

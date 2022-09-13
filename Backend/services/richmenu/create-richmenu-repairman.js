@@ -99,7 +99,7 @@ exports.createRichMenuRepairman = async (userId) => {
   // 3. create alias to richmenu
   await client.createRichMenuAlias(
     richMenuRepairmanId,
-    "richmenu-alias-repairman"
+    "richmenu-alias-repairman-2"
   );
 
   // 4. set richmenu to userId (Repairman)

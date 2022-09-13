@@ -1,0 +1,496 @@
+19:49:42	 From  shayu : ที่อาจารย์ก็อบมาวางล่าสุดบนแชทคืออะไรครับ
+19:50:03	 From  shayu : อ้อขอบคุณครับ
+19:50:25	 From  OMEGASTUDiO : เปรมชัย ชื่อคุ้น ๆ
+19:50:57	 From  เปรมชัย : แฟนพันธ์แท้ ครับ
+19:51:08	 From  DaikaoChan : FC
+19:53:05	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+19:53:11	 From  Narongchai Prakatporn : 1
+19:53:12	 From  DaikaoChan : 1
+19:53:12	 From  OMEGASTUDiO : 1
+19:53:13	 From  Kittipoom : 1
+19:53:13	 From  Somkhuan Bunkhong : 1
+19:53:13	 From  Aekapan Soonchandra : 1
+19:53:13	 From  shayu : ๅ
+19:53:15	 From  aum : 1
+19:53:16	 From  ตั้ม : 1
+19:53:16	 From  panuwat : 1
+19:53:17	 From  fatima : 1
+19:53:17	 From  JaewJing : 1
+19:53:18	 From  PK : 1
+19:53:35	 From  zdoem : 1
+19:53:44	 From  Banluesak Patphan : 1
+19:53:49	 From  Apichart : 1
+19:53:53	 From  Rak : 1
+19:53:55	 From  pisit limareesuk : 1
+19:53:59	 From  001ชลศรัณย์ แย้มขะมัง : 1
+19:54:01	 From  DaikaoChan : 1
+19:54:01	 From  aum : 1
+19:54:02	 From  # UDON : 1
+19:54:03	 From  Wirote : 1
+19:54:06	 From  Guntaphon Nakabhop : 1
+19:54:08	 From  Somkhuan Bunkhong : 1
+19:54:14	 From  เปรมชัย : 1
+19:54:23	 From  Kanong Ruttanakorn : 1
+19:55:03	 From  อ.เอก (เอกนรินทร์ คำคูณ) : https://developers.line.biz/en/docs/messaging-api/using-rich-menus/
+19:55:05	 From  Kanit LOHAKAD : 1
+20:02:48	 From  OMEGASTUDiO : ในฐานข้อมูลเรามี ผู้ใช้ ช่างช่อม และผู้ดูแล ตอนนี้เรามี 2 เมนู (ผู้ใช้ กับ ช่างช่อม) เหลือ ผู้ดูแล
+20:09:30	 From  อ.เอก (เอกนรินทร์ คำคูณ) : Day3 -> richmenu
+20:10:44	 From  Narongchai Prakatporn : ผมไม่เห็น เหมือนอาจารครัล
+20:10:50	 From  Narongchai Prakatporn : ไม่มี day3
+20:11:13	 From  pisit limareesuk : วางโค้กแล้วapp crashed
+20:11:13	 From  chatchawan chanthapoon : พึ่งมา ทันอยู่ใช่ไหมครับ อาจารย์
+20:11:19	 From  sirichaitee : ขอ link google drive หน่อยครับ
+20:11:24	 From  Narongchai Prakatporn : เจอละครับ แปลก กดเข้ากดออกไม่มา รีเฟรช ละมา
+20:11:25	 From  Narongchai Prakatporn : รับทราบ
+20:11:56	 From  DaikaoChan : https://drive.google.com/drive/folders/1tgKKgt6nm9sIJgvKE6YTDace-KVBDZVZ
+20:12:07	 From  sirichaitee : ขอบคุณครับผม
+20:17:14	 From  chatchawan chanthapoon : path client ผิดปะรับ
+20:17:53	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+20:18:00	 From  Rak : 1
+20:18:01	 From  ตั้ม : 1
+20:18:01	 From  naphat : 1
+20:18:02	 From  panuwat : 1
+20:18:02	 From  เปรมชัย : 1
+20:18:02	 From  Aekapan Soonchandra : 1
+20:18:03	 From  sirichaitee : 1
+20:18:03	 From  Wirote : 1
+20:18:03	 From  shayu : 1
+20:18:04	 From  001ชลศรัณย์ แย้มขะมัง : 1
+20:18:04	 From  aum : 1
+20:18:05	 From  Kanong Ruttanakorn : 1
+20:18:05	 From  # UDON : 1
+20:18:06	 From  may : 1
+20:18:06	 From  fatima : 1
+20:18:07	 From  JaewJing : 1
+20:18:08	 From  Saranphong.s : 1
+20:18:09	 From  Somkhuan Bunkhong : 1
+20:18:10	 From  สุรชาติ จันทสุวรรณ(ป้อมไอที) : 1
+20:18:10	 From  Banluesak Patphan : 1
+20:18:11	 From  Guntaphon Nakabhop : 1
+20:18:12	 From  Apichart : 1
+20:18:13	 From  DaikaoChan : 1
+20:18:17	 From  pisit limareesuk : 1
+20:18:23	 From  Narongchai Prakatporn : 1
+20:18:43	 From  Kanit LOHAKAD : 1
+20:29:57	 From  zdoem : path ผิดเหรือป่าวครับ
+20:35:23	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+20:35:25	 From  Aekapan Soonchandra : 1
+20:35:26	 From  ตั้ม : 1
+20:35:28	 From  Apichart : 1
+20:35:28	 From  aum : 1
+20:35:28	 From  naphat : 1
+20:35:29	 From  shayu : 1
+20:35:29	 From  001ชลศรัณย์ แย้มขะมัง : 1
+20:35:29	 From  sirichaitee : 1
+20:35:30	 From  เปรมชัย : 1
+20:35:30	 From  PK : 1
+20:35:31	 From  Narongchai Prakatporn : 1
+20:35:32	 From  panuwat : 1
+20:35:32	 From  เจมส์ : 1
+20:35:33	 From  JaewJing : 1
+20:35:33	 From  Kanit LOHAKAD : 1
+20:35:34	 From  Banluesak Patphan : 1
+20:35:34	 From  สุรชาติ จันทสุวรรณ(ป้อมไอที) : 1
+20:35:34	 From  fatima : 1
+20:35:35	 From  Guntaphon Nakabhop : 1
+20:35:36	 From  Somkhuan Bunkhong : 1
+20:35:36	 From  DaikaoChan : 1
+20:35:37	 From  Wirote : 1
+20:35:38	 From  pisit limareesuk : 1
+20:39:53	 From  pisit limareesuk : เขียวแล้วครับ
+20:41:38	 From  Narongchai Prakatporn : ฝนตกหนักมาก
+20:41:45	 From  KEE : พอกดแล้ว part ขึ้น auto
+20:45:18	 From  Narongchai Prakatporn : {"message":"สร้างเมนู User สำเร็จ"}
+20:45:25	 From  Sompoch : ของผมเข้าไปแล้วเมนูขึ้นเลย ไม่ต้อง block/unblock
+20:45:37	 From  Noopay : ไม่ต้อง block ค่ะ
+20:45:55	 From  Narongchai Prakatporn : ขึ้นเลย ครับ
+20:45:57	 From  ตั้ม : {"message":"สร้างเมนู User สำเร็จ"}
+20:46:17	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+20:46:19	 From  ตั้ม : 1
+20:46:20	 From  Aekapan Soonchandra : 1
+20:46:20	 From  aum : 1
+20:46:20	 From  Banluesak Patphan : 1
+20:46:21	 From  thanchanok : 1
+20:46:21	 From  Somkhuan Bunkhong : 1
+20:46:22	 From  Apichart : 1
+20:46:23	 From  pisit limareesuk : 1
+20:46:27	 From  JaewJing : 1
+20:46:27	 From  Wirote : 1
+20:46:28	 From  เจมส์ : 1
+20:46:28	 From  Narongchai Prakatporn : 1
+20:46:29	 From  Noopay : ๅ
+20:46:31	 From  Noopay : 1
+20:46:41	 From  shayu : 1
+20:46:47	 From  KEE : errorครับ
+20:46:51	 From  DaikaoChan : GET  /stylesheets/style.css    304 Not Modified
+20:47:02	 From  DaikaoChan   to   อ.เอก (เอกนรินทร์ คำคูณ)(Direct Message) : GET  /stylesheets/style.css    304 Not Modified
+20:47:02	 From  may : 1
+20:47:03	 From  Saranphong.s : 1
+20:47:05	 From  001ชลศรัณย์ แย้มขะมัง : 1
+20:47:08	 From  Sompoch : 1
+20:47:09	 From  PK : 1
+20:47:31	 From  ดำรงศักดิ์ : ไม่ขึ้นครับ
+20:47:48	 From  ดำรงศักดิ์ : ให้ ener ตรงใหนครับ
+20:47:51	 From  DaikaoChan   to   อ.เอก (เอกนรินทร์ คำคูณ)(Direct Message) : ไม่ขึ้นค่ะ
+20:48:06	 From  ดำรงศักดิ์ : ผมลบออกจากห้อง แล้วก็ลอง block แล้ว
+20:48:06	 From  KEE : ไม่ขึ้น
+20:48:16	 From  zdoem : 1
+20:48:18	 From  aum : ออก ห้องเข้าใหม่
+20:48:22	 From  DaikaoChan   to   อ.เอก (เอกนรินทร์ คำคูณ)(Direct Message) : ไม่ขึ้นค่ะ
+20:48:26	 From  ดำรงศักดิ์ : ขึ้นสร้างเมนูสำเร็จครับ
+20:48:39	 From  KEE : มี error ที่console
+20:48:52	 From  ดำรงศักดิ์ : มาละ
+20:48:57	 From  ดำรงศักดิ์ : ทำซ้ำไปซ้ำมา
+20:49:02	 From  ดำรงศักดิ์ : เหมือนมันช้า
+20:49:06	 From  Kanit LOHAKAD : เรียกlocalhost:4000 ไม่ได้ครับ
+20:49:44	 From  OMEGASTUDiO : port ชนกันรึเปล่า
+20:50:21	 From  ดำรงศักดิ์ : อย่าลืม npm run dev แล้วก็ทำตามลำดับ
+20:51:23	 From  Kanit LOHAKAD : <Error><StatusCode>404</StatusCode><Message>Not Found</Message></Error>
+20:51:42	 From  DaikaoChan   to   อ.เอก (เอกนรินทร์ คำคูณ)(Direct Message) : ได้แล้วค่ะ
+20:51:52	 From  Kanit LOHAKAD : เขียวปกติครับ
+20:52:47	 From  อ.เอก (เอกนรินทร์ คำคูณ) : localhost:4000/create/richmenu/user
+20:53:09	 From  ดำรงศักดิ์ : สำหรับเริ่มเรียนใหม่ในแต่ละวัน ให้ทำขั้นตอน ดังนี้1. npm run dev2. ngrok http 40003. edit .env 4. edit webhook url ที่ Your Channel -> tab Messaging API -> Webhook URL
+20:53:45	 From  DaikaoChan : ถ้าเมนูขึ้นแล้วให้ลองกดอะไรรึป่าวคะ
+20:53:46	 From  KEE : ได้แล้ว แต่จะช้าหน่อย
+20:55:01	 From  zdoem : ขออนุญาตถามครับ อจ
+20:55:04	 From  zdoem : const express = require("express");กับแบบนี้ต่างกันอย่างไรครับconst { createRichMenuUser} = require("../services/richmenu/create-richmenu-user");
+20:55:07	 From  KEE : แต่ menu ไม่ขึ้น
+20:55:20	 From  zdoem : มี {}
+20:55:44	 From  สุรชาติ จันทสุวรรณ(ป้อมไอที) : เมนูไม่ขึ้นครับ
+20:56:02	 From  อ.เอก (เอกนรินทร์ คำคูณ) : JavaScript destructuring assigment
+20:56:02	 From  ดำรงศักดิ์ : เมนูไม่ขึ้นให้ลองลบห้อง chat
+20:56:11	 From  zdoem : ขอบคุณครับ
+20:56:13	 From  Noopay : menu ไม่ขึ้น กด Block Delete Chat จากนั้น  Add Friend ใหม่
+20:56:20	 From  KEE : ต้อง รีไลน์เข้าใหม่ถึงจะขึ้นปกติ
+20:57:21	 From  DaikaoChan : ขึ้นค่ะแต่ช้าหน่อย
+20:57:53	 From  DaikaoChan : iPhone ขึ้นค่ะ
+20:57:56	 From  aum : ปกติครับ
+20:58:10	 From  # UDON : ไม่ช้านะครับ
+20:59:21	 From  จุ๊ : ipad ไม่ขึ้นเมนูครับ
+21:01:14	 From  DaikaoChan : ipad ขึ้นนะคะ
+21:01:49	 From  chuchart saetiew : Git lab มันอัพเดชช้ามาก
+21:01:58	 From  จุ๊ : เกี่ยวกับหน้าจอมั้ยของผม 12.9
+21:08:53	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+21:08:56	 From  Aekapan Soonchandra : 1
+21:09:02	 From  panuwat : 1
+21:09:05	 From  JaewJing : 1
+21:09:09	 From  pisit limareesuk : 1
+21:09:17	 From  OMEGASTUDiO : 1
+21:09:22	 From  aum : 1
+21:09:25	 From  จุ๊ : 1
+21:09:31	 From  naphat : 1
+21:09:32	 From  ตั้ม : 1
+21:09:34	 From  may : 1
+21:09:35	 From  Noopay : 1
+21:09:36	 From  DaikaoChan : 1
+21:09:38	 From  Wirote : Cannot GET /create/richmenu/repairman/Uba4657340206e45b327317fa23c942b1
+21:09:39	 From  Apichart : 1
+21:09:48	 From  Somkhuan Bunkhong : 1
+21:09:49	 From  chatchawan chanthapoon : 1
+21:10:07	 From  เปรมชัย : 1
+21:11:04	 From  KEE : ๅ
+21:11:06	 From  KEE : 1
+21:11:07	 From  เจมส์ : 1
+21:11:13	 From  shayu : 1
+21:11:20	 From  Narongchai Prakatporn : เอไม่ได้
+21:11:22	 From  PK : 1
+21:11:23	 From  Wirote : ไม่เจอครับ
+21:11:24	 From  Kanong Ruttanakorn : 1
+21:11:28	 From  Somkhuan Bunkhong : 1
+21:11:41	 From  Wirote : รับทราบ
+21:12:06	 From  ตั้ม : ตอนลบ ต้องส่ง userId ไหมครับ
+21:12:32	 From  ตั้ม : โอเคครับ
+21:13:18	 From  Narongchai Prakatporn : ได้แล้ว ลืมแก้ ด้านบน
+21:13:22	 From  Narongchai Prakatporn : 1
+21:13:22	 From  zdoem : 1
+21:13:29	 From  thanchanok : 1
+21:14:21	 From  ดำรงศักดิ์ : menu ช่างไม่ขี้น ยังขึ้นของ menu สำหรับฟู้ใช้
+21:14:55	 From  ตั้ม : ใช่ๆ ครับ
+21:15:07	 From  ตั้ม : ขึ้นเลย แบบยังไม่ได้กด ออกจากหน้าไลน์ ก็เปลี่ยนเลย
+21:15:37	 From  Wirote : ได้แล้วครับ อาจารย์ผมน่าจะเขียน code ผิดขอบคุณครับ
+21:15:53	 From  chuchart saetiew : ลบ สมาชิกออกจาก การแอดไลนอย่างรัยคับ
+21:16:04	 From  shayu : อยู่ครับ
+21:16:18	 From  Apichart : อยู่ครับ เข้าได้ user ครับ
+21:16:25	 From  pisit limareesuk : อยู่ครับ
+21:16:44	 From  pisit limareesuk : ได้แล้วครับ
+21:16:45	 From  shayu : เป็น user ครับ
+21:22:22	 From  Narongchai Prakatporn : เปิดไลน์ ใน คอม ไม่ขึ้นเมทนู ใช่ใหมครับ
+21:23:00	 From  อ.เอก (เอกนรินทร์ คำคูณ) : --
+21:23:02	 From  JaewJing : 1
+21:23:07	 From  panuwat : 1
+21:23:09	 From  DaikaoChan : 1
+21:23:10	 From  KEE : 1
+21:23:13	 From  Noopay : 1
+21:23:14	 From  thanchanok : 1
+21:23:19	 From  Aekapan Soonchandra : 1
+21:23:19	 From  จุ๊ : 1
+21:23:22	 From  ตั้ม : 1
+21:23:24	 From  Sompoch : 1
+21:23:28	 From  Somkhuan Bunkhong : 1
+21:23:28	 From  Apichart : 1
+21:23:29	 From  chatchawan chanthapoon : 1
+21:23:32	 From  Guntaphon Nakabhop : 1
+21:23:34	 From  Narongchai Prakatporn : 1
+21:23:34	 From  PK : 1
+21:23:36	 From  pisit limareesuk : 1
+21:23:41	 From  zdoem : 1
+21:23:46	 From  # UDON : 1
+21:23:51	 From  aum : 1
+21:23:53	 From  เปรมชัย : 1
+21:23:55	 From  naphat : 1
+21:24:32	 From  shayu : 1
+21:26:56	 From  Narongchai Prakatporn : ipad  ไม่ขึ้น นะครับ
+21:27:54	 From  จุ๊ : 12.9 ไม่ขึ้นครับ
+21:28:06	 From  DaikaoChan : air 3 ขึ้นค่ะ
+21:28:25	 From  Narongchai Prakatporn : 15.6.1 ไม่ขึ้น
+21:29:04	 From  Narongchai Prakatporn : android  ขึ้นปกติ
+21:29:24	 From  JaewJing : Ipad mini กับ pro 12.9 ไม่ขึ้นค่ะ
+21:32:43	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+21:33:36	 From  ตั้ม : 1
+21:33:40	 From  Apichart : 1
+21:33:42	 From  panuwat : 1
+21:33:42	 From  Narongchai Prakatporn : 1
+21:33:45	 From  Aekapan Soonchandra : 1
+21:33:49	 From  PK : 1
+21:33:50	 From  shayu : 1
+21:33:51	 From  ดำรงศักดิ์ : ขอดูยันทัดแรกๆหน่อยครับ
+21:33:51	 From  DaikaoChan : 1
+21:33:52	 From  จุ๊ : 1
+21:33:53	 From  Noopay : 1
+21:33:57	 From  naphat : 1
+21:33:58	 From  KEE : 1
+21:33:58	 From  pisit limareesuk : 1
+21:33:59	 From  zdoem : 1
+21:34:01	 From  fatima : 1
+21:34:03	 From  Wirote : 1
+21:34:04	 From  aum : 1
+21:34:06	 From  Somkhuan Bunkhong : 1
+21:34:10	 From  chatchawan chanthapoon : 1
+21:34:13	 From  DaikaoChan : const { sendWelcomeMsg } = require('./send-welcome-msg');
+21:34:14	 From  Banluesak Patphan : 1
+21:35:26	 From  Guntaphon Nakabhop : 1
+21:35:43	 From  Narongchai Prakatporn : iPhone unblock  แล้ว เมนูหาย ต้องออกจาก ห้องเชท แล้วเข้ามาใหม่ ถึงมา ครับแอนดรอย ปกติ ครับ ท่านไหน เป็นใหมครับ  iPhone 13
+21:36:22	 From  may : ไม่มีคำว่ายินดีต้อนรับอ่ะค่ะไม่มี error อะไรบอกด้วยอ่ะค่ะ
+21:36:33	 From  Narongchai Prakatporn : ipad  ยังไม่ขึ้น  ipad9
+21:36:39	 From  KEE : 13 ปกติครับ
+21:37:08	 From  DaikaoChan : se1 เมนูหายค่ะ
+21:37:30	 From  JaewJing : 1
+21:37:35	 From  DaikaoChan : ใช่ค่ะ se1 ต้อง back แล้วเข้าใหม่เมนุจะมา
+21:37:48	 From  KEE : เคลียร์แอพก่อนครับ เข้าใหม่
+21:38:06	 From  Narongchai Prakatporn : 13 pro ผม 15.6.1  ไม่ได้ ต้อง ออกแชท เข้าใหม่ ครับ
+21:38:24	 From  DaikaoChan : android ไม่เป็นค่ะ
+21:39:30	 From  Narongchai Prakatporn : android  เร็วและเนียนมาก ครับ ไม่เป็นไรเลย
+21:47:40	 From  Aekapan Soonchandra : 1
+21:47:41	 From  panuwat : 1
+21:47:41	 From  aum : ๅ
+21:47:41	 From  DaikaoChan : 1
+21:47:42	 From  จุ๊ : 1
+21:47:43	 From  aum : 1
+21:47:43	 From  naphat : ๅ
+21:47:43	 From  ตั้ม : 1
+21:47:43	 From  Somkhuan Bunkhong : 1
+21:47:43	 From  Banluesak Patphan : 1
+21:47:44	 From  Wirote : 1
+21:47:45	 From  เปรมชัย : ๅ
+21:47:46	 From  shayu : 1
+21:47:46	 From  Kanong Ruttanakorn : 1
+21:47:46	 From  Apichart : 1
+21:47:47	 From  เปรมชัย : 1
+21:47:48	 From  JaewJing : 1
+21:47:49	 From  pisit limareesuk : 1
+21:47:49	 From  Noopay : 1
+21:47:53	 From  chaiwichit buapanlum : 1
+21:47:55	 From  PK : 1
+21:48:08	 From  Guntaphon Nakabhop : 1
+21:54:34	 From  OMEGASTUDiO : ใช้เป็น SVG แทน png ได้มั๊ยครับ
+21:56:10	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ----
+21:56:16	 From  Guntaphon Nakabhop : 1
+21:56:25	 From  naphat : 1
+21:56:29	 From  Banluesak Patphan : 1
+21:56:31	 From  PK : 1
+21:56:32	 From  Narongchai Prakatporn : 1
+21:56:32	 From  panuwat : 1
+21:56:33	 From  DaikaoChan : 1
+21:56:38	 From  Sompoch : 1
+21:56:48	 From  ตั้ม : 1
+21:57:00	 From  shayu : 1
+21:57:03	 From  Aekapan Soonchandra : 1
+21:57:07	 From  จุ๊ : 1
+21:57:14	 From  pisit limareesuk : 1
+21:57:39	 From  DaikaoChan : ได้ค่ะ
+21:57:47	 From  จุ๊ : ipad quick reply ใช้งานได้ครับ
+21:57:49	 From  ตั้ม : icon มาครบ ครับ
+21:58:06	 From  DaikaoChan : ได้ 3 เมนูปกติค่ะ
+21:58:14	 From  Narongchai Prakatporn : ครบครับ
+21:58:15	 From  JaewJing : 1
+21:58:18	 From  naphat : มาปกติครับ android
+21:58:34	 From  Narongchai Prakatporn : ipad  ผมเศร้า เดี๋ยว ลองรีใหม่ก่อน
+21:58:35	 From  DaikaoChan : ปุ่มแสดงแนวตั้งได้มั้ยคะ
+21:58:41	 From  zdoem : 1
+21:59:05	 From  อ.เอก (เอกนรินทร์ คำคูณ) : https://developers.line.biz/en/docs/messaging-api/using-quick-reply/
+22:03:08	 From  OMEGASTUDiO : image message
+22:03:14	 From  Wirote : มีครับ
+22:03:17	 From  เจมส์ : มีครับ
+22:03:19	 From  naphat : มีครับ
+22:07:30	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+22:07:57	 From  naphat : type: 'message',
+  message: {
+    type: 'image',
+    id: '16760390709875',
+    contentProvider: { type: 'line' }
+  },
+  webhookEventId: '01GCKZ2E13TX79Y89BE6CRYJX6',
+  deliveryContext: { isRedelivery: false },
+  timestamp: 1662822463017,
+  source: { type: 'user', userId: 'U8fb6f19a073b260b68774ac14eb2ecb7' },
+  replyToken: '277414fc55124f8e9ae47ec780042d80',
+  mode: 'active'
+}
+22:07:59	 From  ตั้ม : timestamp: 1662822454822,  source: { type: 'user', userId: 'U8a192a77131da19d2d5593d120291dd1' },  replyToken: 'e7ffd2f10c53431fa7ddeb8f55dbe195',  mode: 'active'}
+22:07:59	 From  PK : POST /line/callback 200 25.233 ms - 6{  type: 'message',  message: {    type: 'image',    id: '16760390058268',    contentProvider: { type: 'line' }  },  webhookEventId: '01GCKZ23WBCPYYNS67879QE69R',         deliveryContext: { isRedelivery: false },  timestamp: 1662822453106,  source: { type: 'user', userId: 'U03764487d5561015e91342f339fa5ab2' },  replyToken: 'fba1584a2aa6472eae9f1f82ab1001f6',       mode: 'active'}POST /line/callback 200 3.807 ms - 6
+22:08:04	 From  จุ๊ : {  type: 'message',  message: {    type: 'image',    id: '16760391394980',    contentProvider: { type: 'line' }  },  webhookEventId: '01GCKZ2RBQJC4R5TGG4P7NJ7MJ',  deliveryContext: { isRedelivery: false },  timestamp: 1662822473929,  source: { type: 'user', userId: 'U5857a2dd8408aff99fd36812e5021572' },  replyToken: '835012d74c6d4650864b1637a3920f8c',  mode: 'active'}
+22:08:05	 From  may : {  type: 'message',  message: {    type: 'image',    id: '16760390392926',    contentProvider: { type: 'line' }  },  webhookEventId: '01GCKZ29EVG4DFMHVWAKBQ72HY',  deliveryContext: { isRedelivery: false },  timestamp: 1662822458747,  source: { type: 'user', userId: 'Ua93f706d1f51ea1dbeba630ac1f5ec6c' },  replyToken: 'e8edc61fcf7c4547b481e351d405b7e4',  mode: 'active'}
+22:08:07	 From  Guntaphon Nakabhop : POST /line/callback 200 48.838 ms - 6{  type: 'message',  message: {    type: 'image',    id: '16760390835586',    contentProvider: { type: 'line' }  },  webhookEventId: '01GCKZ2G53PVA1CWNPXDKN693Q',  deliveryContext: { isRedelivery: false },  timestamp: 1662822465452,  source: { type: 'user', userId: 'U43078e5393bfa8114f827cd0e435e803' },  replyToken: '849dda088b6a4158b8e5c070f4e2ef97',  mode: 'active'}POST /line/callback 200 5.449 ms - 6
+22:08:08	 From  Aekapan Soonchandra : POST /line/callback 200 23.958 ms - 6{  type: 'message',  message: {    type: 'image',    id: '16760390840651',    contentProvider: { type: 'line' }  },  webhookEventId: '01GCKZ2GARP4EV20DJ11K25HJF',  deliveryContext: { isRedelivery: false },  timestamp: 1662822465518,  source: { type: 'user', userId: 'U91be4f276e29278b90bf9c7399d7ed00' },  replyToken: 'acd365323975484eb3af872b9e9684de',  mode: 'active'}
+22:08:25	 From  อ.เอก (เอกนรินทร์ คำคูณ) : message: {    type: 'image',    id: '16760390835586',    contentProvider: { type: 'line' }  },
+22:09:43	 From  อ.เอก (เอกนรินทร์ คำคูณ) : --
+22:09:50	 From  Aekapan Soonchandra : 1
+22:09:51	 From  จุ๊ : 1
+22:09:51	 From  pisit limareesuk : 1
+22:09:51	 From  aum : 1
+22:09:52	 From  PK : 1
+22:09:53	 From  may : 1
+22:09:54	 From  Sompoch : 1
+22:09:54	 From  Banluesak Patphan : 1
+22:09:55	 From  JaewJing : 1
+22:09:57	 From  KEE : 1
+22:10:00	 From  Wirote : 1
+22:11:13	 From  Rak : 1
+22:11:21	 From  DaikaoChan : 1
+22:12:09	 From  อ.เอก (เอกนรินทร์ คำคูณ) : 22.18 น.
+22:19:30	 From  ดำรงศักดิ์ : เครื่องผม app crashed ตลอดเลยตอนนี้ ถ้าผมสร้าง menu ช่าง 55 แต่ถ้าไม่สร้าง ก็ทำงานปกติ
+22:19:38	 From  ดำรงศักดิ์ : ต้องเปิดปิด vs code ใหม่
+22:20:05	 From  จุ๊ : flex message แล้วให้ user เลือกเอาตามตัวเลข
+22:20:15	 From  Narongchai Prakatporn : คอส ที่แล้วมี ใช่ใหม ครับ เดี๋ยว จะขอไปเรียนเพิ่ม ครับ อาจารย์ เป็น คอส ไหน ครับ
+22:20:41	 From  Noopay : quick reply ไม่ขึ้นค่ะ
+22:21:44	 From  Narongchai Prakatporn : ใช้ร่วมกันได้ใหมครับ
+22:22:55	 From  Narongchai Prakatporn : คอส ชื่ออะไร นะครับ
+22:22:57	 From  Narongchai Prakatporn : อาจารย์
+22:23:07	 From  อ.เอก (เอกนรินทร์ คำคูณ) : https://codingthailand.com/line_vdo/
+22:23:17	 From  Narongchai Prakatporn : ขอบคุณมากครับ
+22:23:22	 From  Noopay : ยังไม่ขึ้นเลยค่ะ
+22:24:17	 From  ดำรงศักดิ์ : data: {        message: 'The request body has 1 error(s)',        details: [ { message: 'May not be empty', property: 'messages' } ]      }    },    isAxiosError: true,    toJSON: [Function: toJSON]  }}[nodemon] app crashed - waiting for file changes before starting...
+22:24:24	 From  ดำรงศักดิ์ : หลังกดส่งรูป
+22:26:04	 From  Narongchai Prakatporn : 16760419959928image messagePOST /line/callback 200 2.753 ms - 6
+22:26:46	 From  อ.เอก (เอกนรินทร์ คำคูณ) : https://developers.line.biz/en/reference/messaging-api/#get-content
+22:31:38	 From  OMEGASTUDiO : const response = await axios.get(``);
+22:32:04	 From  aum : ``
+22:32:21	 From  อ.เอก (เอกนรินทร์ คำคูณ) : https://api-data.line.me/v2/bot/message/{messageId}/content
+22:33:03	 From  อ.เอก (เอกนรินทร์ คำคูณ) : https://api-data.line.me/v2/bot/message/{messageId}/content
+22:34:48	 From  อ.เอก (เอกนรินทร์ คำคูณ) : Authorization
+22:34:52	 From  อ.เอก (เอกนรินทร์ คำคูณ) : Bearer
+22:41:28	 From  pisit limareesuk : 14
+22:41:47	 From  pisit limareesuk : ครับผม
+22:42:52	 From  OMEGASTUDiO : fs
+22:43:43	 From  อ.เอก (เอกนรินทร์ คำคูณ) : npm install uuid
+22:47:49	 From  ตั้ม : กด alt + 96 แล้วปล่อยก็ได้ครับ
+22:51:11	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+22:51:21	 From  Narongchai Prakatporn : ขอข้างบนอีกทีครับ
+22:51:23	 From  เปรมชัย : 1
+22:51:43	 From  DaikaoChan : 1
+22:51:57	 From  JaewJing : 1
+22:52:09	 From  PK : 1
+22:52:12	 From  shayu : 1
+22:52:13	 From  OMEGASTUDiO : 1
+22:52:18	 From  Wirote : 1
+22:52:18	 From  aum : 1
+22:52:19	 From  sirichaitee : 1
+22:52:26	 From  Banluesak Patphan : 1
+22:52:27	 From  KEE : ๅ
+22:52:28	 From  Sompoch : 1
+22:52:30	 From  Somkhuan Bunkhong : 1
+22:52:31	 From  pisit limareesuk : 1
+22:52:31	 From  may : 1
+22:52:48	 From  Aekapan Soonchandra : 1
+22:53:26	 From  Narongchai Prakatporn : errno: -4058,  code: 'ENOENT',  syscall: 'open',  path: 'D:\\Line e-Service\\eServices-backend\\public\\upload\\54825887-da67-4eb1-9fa1-5c01b8acfbca.jpg'}[nodemon] app crashed - waiting for file changes before starting...
+22:54:31	 From  chatchawan chanthapoon : TypeError: response.data.pipe is not a function
+22:54:33	 From  chanan : const response = await axios.get(`https://api-data.line.me/v2/bot/message/${event.message.id}/content`,{                                                                                             ^TypeError: Cannot read properties of undefined (reading 'message')
+22:54:34	 From  ตั้ม : ได้เป็นชื่อ undefined ครับ
+22:55:49	 From  chanan : ขอ link GitLab หน่อยครับ
+22:55:58	 From  อ.เอก (เอกนรินทร์ คำคูณ) : Source Code ระหว่างเรียน (หากไม่ทันบอก push โค้ดได้ครับ url นี้จะถูกปิดหลังเรียนจบ ให้ดาวน์โหลดที่โฟลเดอร์ชื่อว่า โค้ดทั้งหมด แทน)https://gitlab.com/codingthailand/mms-backend
+22:56:14	 From  ตั้ม : ได้แล้วครับ ปิด } ผิดที่
+22:56:30	 From  OMEGASTUDiO : ถ้าเช็คนามสกุลไฟล์ที่ผู้ใช้ส่งมา ต้องใช้คำสั่งอะไรครับ
+22:58:06	 From  aum : เป็นไฟร์ อื่นๆ เราก็ เก็บได้ใช่ไหมครับนแกจาก image
+22:58:58	 From  Narongchai Prakatporn : ของผม ชื่อ  Folder upload  มีภาษาไทยปน ครับ 55
+22:59:01	 From  Narongchai Prakatporn : ได้แล้วครับ
+22:59:45	 From  zdoem : 1
+22:59:51	 From  เจมส์ : 1
+22:59:57	 From  panuwat : 1
+22:59:58	 From  Aekapan Soonchandra : 1
+23:00:02	 From  pisit limareesuk : 1
+23:00:06	 From  aum : 1
+23:00:10	 From  may : 1
+23:00:10	 From  shayu : 1
+23:05:33	 From  ดำรงศักดิ์ : git lab ไม่ Update เลยครับ ขอลิงค์ใหม่หน่อย
+23:05:59	 From  อ.เอก (เอกนรินทร์ คำคูณ) : https://gitlab.com/codingthailand/mms-backend
+23:06:29	 From  zdoem : exports.botSendCamera  ใช้ชื่อเดิมได้ใชไหมครับ
+23:07:59	 From  OMEGASTUDiO : เดี๋ยวจะงง
+23:11:50	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ----
+23:11:57	 From  zdoem : 1
+23:11:59	 From  chanan : 1
+23:12:02	 From  Rak : 1
+23:12:09	 From  Banluesak Patphan : 1
+23:12:32	 From  OMEGASTUDiO : LOCATION [object Object]
+23:12:38	 From  zdoem : location messagePOST /line/callback 200 8.490 ms - 6
+23:12:46	 From  KEE : 1error
+23:12:49	 From  จุ๊ : {  type: 'message',  message: {    type: 'location',    id: '16760616177925',    latitude: 14.847742,    longitude: 100.650795,    address: 'RMW2+W83 ตำบล เขาสามยอด อำเภอเมืองลพบุรี ลพบุรี 15000 ประเทศไทย'  },  webhookEventId: '01GCM2S7HWZCVCXY4PWYYCP97Y',  deliveryContext: { isRedelivery: false },  timestamp: 1662826355781,  source: { type: 'user', userId: 'U5857a2dd8408aff99fd36812e5021572' },  replyToken: 'e549208fbb284c0881972f6487c830a5',  mode: 'active'}
+23:12:56	 From  Rak : message: {    type: 'location',    id: '16760613745045',    latitude: 13.651831,    longitude: 100.60988,    address: '55/11 ซอย แบริ่ง 22 ตำบล สำโรงเหนือ อำเภอเมืองสมุทรปราการ สมุทรปราการ 10270 ประเทศไทย'  },
+23:14:36	 From  Aekapan Soonchandra : 1
+23:14:37	 From  panuwat : 1
+23:14:38	 From  KEE : msg = botSendLocation();    ^ReferenceError: botSendLocation is not defined    at exports.handleImage (D:\mms-backend\services\handle-image.js:31:5)    at processTicksAndRejections (node:internal/process/task_queues:96:5)[nodemon] app crashed - waiting for file changes before starting...
+23:14:39	 From  Guntaphon Nakabhop : 1
+23:14:40	 From  Banluesak Patphan : 1
+23:14:40	 From  chatchawan chanthapoon : 1
+23:14:40	 From  PK : 1
+23:14:41	 From  Apichart : 1
+23:14:43	 From  shayu : 1
+23:14:51	 From  เจมส์ : 1
+23:15:04	 From  จุ๊ : 1
+23:15:08	 From  เปรมชัย : 1
+23:15:10	 From  aum : 1
+23:15:17	 From  Wirote : 1
+23:15:21	 From  Noopay : 1
+23:15:23	 From  DaikaoChan : POST /line/callback 200 29.518 ms - 6POST /line/callback 200 5.890 ms - 6
+23:15:29	 From  DaikaoChan : ไม่ขึ้นค่ะ
+23:16:01	 From  may : ทำไม handle-follow.js return client.replyMessageแต่ handle-image.js return config.client.replyMessage
+23:18:36	 From  ดำรงศักดิ์ : ไม่ขึ้น Quick reply button
+23:18:39	 From  DaikaoChan : ได้แล้วค่ะ ช้าหน่อย
+23:18:51	 From  ดำรงศักดิ์ : แต่ส่ง Location แล้วมี msg รับ ดู log ได้
+23:22:15	 From  อ.เอก (เอกนรินทร์ คำคูณ) : ---
+23:22:17	 From  Aekapan Soonchandra : 1
+23:22:18	 From  aum : 1
+23:22:19	 From  Narongchai Prakatporn : 1
+23:22:20	 From  Somkhuan Bunkhong : 1
+23:22:20	 From  Banluesak Patphan : 1
+23:22:21	 From  may : 1
+23:22:21	 From  สุรชาติ จันทสุวรรณ(ป้อมไอที) : ๅ
+23:22:21	 From  เปรมชัย : 1
+23:22:22	 From  sirichaitee : 1
+23:22:23	 From  Guntaphon Nakabhop : 1
+23:22:24	 From  shayu : 1
+23:22:25	 From  Kanong Ruttanakorn : 1
+23:22:25	 From  Noopay : 1
+23:22:35	 From  pisit limareesuk : 1
+23:22:45	 From  PK : 1
+23:22:53	 From  DaikaoChan : mssql ต้อง type อะไรคะ
+23:23:01	 From  DaikaoChan : พิกัด lat,long
+23:23:08	 From  อ.เอก (เอกนรินทร์ คำคูณ) : POINT
+23:23:21	 From  DaikaoChan : ขอบคุณมากค่ะ
+23:23:36	 From  อ.เอก (เอกนรินทร์ คำคูณ) : https://docs.microsoft.com/en-us/sql/relational-databases/spatial/point?view=sql-server-ver16
+23:24:10	 From  chaiwichit buapanlum : ขอบคุณครับ
+23:24:11	 From  สุรชาติ จันทสุวรรณ(ป้อมไอที) : ขอบคุณครับ
+23:24:13	 From  Aekapan Soonchandra : ฝันดีครับ ขอบคุณครับอาจารย์
+23:24:18	 From  may : ขอบคุณค่า
+23:24:20	 From  shayu : ขอบคุณค้าบบบบ
+23:24:20	 From  เปรมชัย : ขอบคุณครับ
+23:24:25	 From  chatchawan chanthapoon : ขอบคุณครับ

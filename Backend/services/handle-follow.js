@@ -1,5 +1,6 @@
 const { client } = require("../config/line");
 const userService = require("./user/index");
+const { sendWelcomeMsg } = require("./send-welcome-msg");
 
 exports.handleFollow = async (event) => {
   const userId = event.source.userId;
@@ -27,4 +28,7 @@ exports.handleFollow = async (event) => {
       profile.pictureUrl
     );
   }
+  let msg;
+  msg = sendWelcomeMsg();
+  return client.replyMessage(event.replyToken, msg);
 };
