@@ -15,10 +15,11 @@ exports.botSendLocation = () => {
           },
           {
             type: "action",
-            imageUrl: "https://codingthailand.com/site/img/camera_roll.png",
+            imageUrl: "https://codingthailand.com/site/img/cancel.png",
             action: {
-              type: "cameraRoll",
-              label: "ภาพจากอัลบั้ม",
+              type: "message",
+              label: "ยกเลิกแจ้งซ่อม",
+              text: "ยกเลิกการแจ้งซ่อม",
             },
           },
         ],
