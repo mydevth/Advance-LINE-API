@@ -1,0 +1,31 @@
+import { InitParams, ShareTargetPickerResult } from './def';
+export declare class ShareTargetPicker {
+    private static instance;
+    private liffId;
+    private allowPostMessageOrigin;
+    private payloadToShareTargetPicker;
+    private ott;
+    private popupWindow;
+    private timeoutIDForHealthCheck;
+    private abortController;
+    private internalError;
+    private doesWaitForSubwindowResult;
+    private constructor();
+    static getInstance(): ShareTargetPicker;
+    init(params: InitParams): Promise<ShareTargetPickerResult | void>;
+    private resetAllVariables;
+    private reset;
+    private finalize;
+    private buildPayloadToShareTargetPicker;
+    private initAllowPostMessageOrigin;
+    private initOtt;
+    private prepareAnotherWindow;
+    private openAnotherWindow;
+    private initListener;
+    private healthCheck;
+    private onReceivedHealthcheck;
+    private onCanceled;
+    private getShareResult;
+    static isPollingTimeOut(startTime: number, endTime: number): boolean;
+    private pollingShareResult;
+}
