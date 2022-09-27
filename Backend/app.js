@@ -8,6 +8,7 @@ const cors = require("cors");
 
 const indexRouter = require("./routes/index");
 const lineRouter = require("./routes/line");
+const userRouter = require("./routes/user");
 
 const app = express();
 app.use(cors()); // allow all origin
@@ -23,6 +24,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 
 app.use("/", indexRouter); // http://localhost:4000/
+app.use("/user", userRouter); // http://localhost:4000/user
 
 app.use("/mms-frontend/*", function (req, res, next) {
   res.sendFile(path.join(__dirname, "mms-frontend", "index.html"));
